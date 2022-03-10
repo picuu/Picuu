@@ -1,8 +1,10 @@
+# About Me
+
 - 👋 Hi, I’m @Picuu
-- 👀 I’m interested in programing (python, html, css, javascript), and cryptos.
-- 🌱 I’m currently learning things xd
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m learning ``JavaScript``, and I know some of ``Python``, ``HTML`` and ``CSS``.
+
 - 📫 Discord: Picu#9286
+- ✉ Contact: contacto.picu@gmail.com
 
 <!---
 Picuu/Picuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
