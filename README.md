@@ -4,7 +4,7 @@
 - 👀 I’m learning ``JavaScript``, and I know some of ``Python``, ``HTML`` and ``CSS``.
 
 - 📫 Discord: Picu#9286
-- ✉ Contact: contacto.picu@gmail.com
+- ✉ Contact: contact@picu.es
 
 <!---
 Picuu/Picuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
