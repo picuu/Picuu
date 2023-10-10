@@ -1,9 +1,8 @@
 # About Me
 
 - 👋 Hi, I’m @Picuu
-- 👀 I’m learning ``JavaScript``, and I know some of ``Python``, ``HTML`` and ``CSS``.
 
-- 📫 Discord: Picu#9286
+- 📫 Discord: piicuu
 - ✉ Contact: contact@picu.es
 
 <!---
