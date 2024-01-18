@@ -19,7 +19,7 @@ I'm interessed with JavaScript, Astro and CSS.
     srcset="https://github-readme-stats.vercel.app/api?username=picuu&show_icons=true&bg_color=00000000&border_color=22222288&text_color=222"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=picuu&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=picuu&show_icons=true&bg_color=00000000&border_color=22222288&text_color=bbb" />
 </picture>
 
 <!-- TOP LANGS -->
@@ -32,7 +32,7 @@ I'm interessed with JavaScript, Astro and CSS.
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=picuu&layout=compact&bg_color=00000000&border_color=22222288&text_color=222"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picuu&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=picuu&layout=compact&bg_color=00000000&border_color=22222288&text_color=bbb" />
 </picture>
 
 ## Check out my Gists
