@@ -37,11 +37,13 @@ I'm interessed with JavaScript, Astro and CSS.
 
 ## Check out my Gists
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=d4bb57cb7173edfdf9f74c3f3fe6633a&bg_color=161b22&border_color=22222288&text_color=bbb)](https://gist.github.com/Picuu/d4bb57cb7173edfdf9f74c3f3fe6633a)
+<a href="https://gist.github.com/Picuu/d4bb57cb7173edfdf9f74c3f3fe6633a">
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=d4bb57cb7173edfdf9f74c3f3fe6633a&bg_color=161b22&border_color=22222288&text_color=bbb" />
+</a>
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=f3a5adc61da7335351e90e7ee455c38f&bg_color=161b22&border_color=22222288&text_color=bbb)](https://gist.github.com/Picuu/f3a5adc61da7335351e90e7ee455c38f)
-
-
+<a href="https://gist.github.com/Picuu/f3a5adc61da7335351e90e7ee455c38f">
+  <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=f3a5adc61da7335351e90e7ee455c38f&bg_color=161b22&border_color=22222288&text_color=bbb" />
+</a>
 
 ---
 
