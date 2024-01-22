@@ -6,6 +6,10 @@
 
 18-year-old web development student. Currently staying in Barcelona, Spain 🇪🇸.
 
+<a href="https://wakatime.com/@018d3241-0f81-4d3f-b74f-e65b6da873ea">
+  <img align="right" src="https://wakatime.com/badge/user/018d3241-0f81-4d3f-b74f-e65b6da873ea.svg?style=flat-square" alt="wakatime badge" />
+</a>
+
 🖥️ See my personal page at [picu.es](https://picu.es)
 
 🧠 I'm interessed with JavaScript, Astro and CSS.
