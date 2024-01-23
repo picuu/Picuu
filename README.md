@@ -10,9 +10,10 @@
   <img align="right" src="https://wakatime.com/badge/user/018d3241-0f81-4d3f-b74f-e65b6da873ea.svg?style=flat-square" alt="wakatime badge" />
 </a>
 
-🖥️ See my personal page at [picu.es](https://picu.es)
-
-🧠 I'm interessed with JavaScript, Astro and CSS.
+> 
+> 🖥️ See my personal page at [picu.es](https://picu.es)
+> 
+> 🧠 I'm interessed with JavaScript, Astro and CSS.
 
 ## Skills & Technologies
 
