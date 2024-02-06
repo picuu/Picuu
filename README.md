@@ -1,4 +1,4 @@
-![Header banner](https://github.com/Picuu/Picuu/assets/93738423/c4afc673-667e-4e89-98e2-78e43f120c38)
+![github header banner](https://github.com/picuu/Picuu/assets/93738423/bf59a76e-af69-49e4-acfa-b5f4c373a42f)
 
 # 👋🏼 Hi, I'm Carlos
 
