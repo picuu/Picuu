@@ -82,3 +82,7 @@ Feel free to contact me via:
 <a href="https://gist.github.com/Picuu/f3a5adc61da7335351e90e7ee455c38f">
   <img height=115 align="center" src="https://github-readme-stats.vercel.app/api/gist?id=f3a5adc61da7335351e90e7ee455c38f&bg_color=161b22&border_color=22222288&text_color=bbb" alt="Gist Card" />
 </a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
