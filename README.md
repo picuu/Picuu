@@ -11,7 +11,7 @@
 </a>
 
 > 
-> 🖥️ See my personal page at [picu.es](https://picu.es)
+> 🖥️ See my personal page at [carloscapo.com](https://carloscapo.com)
 > 
 > 🧠 I'm interessed with JavaScript, Astro and CSS.
 
@@ -37,12 +37,12 @@
 
 Feel free to contact me via:
 
-- 📫 Discord: [piicuu](https://picu.es/discord)
-- ✉ Email: [contact@picu.es](mailto:contact@picu.es)
+- 📫 Discord: [piicuu](https://carloscapo.com/discord)
+- ✉ Email: [contact@carloscapo.com](mailto:contact@carloscapo.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carloscapo)
-[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://picu.es/discord)
-[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@picu.es)
+[![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://carloscapo.com/discord)
+[![Email Badge](https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@carloscapo.com)
 [![GitHub Badge](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/picuu)
 
 ---
