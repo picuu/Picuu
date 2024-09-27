@@ -4,7 +4,7 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=picuu&style=flat-square&color=blue" alt="Visitors badge" />
 
-18-year-old web development student. Currently staying in Barcelona, Spain 🇪🇸.
+19-year-old web development student. Currently staying in Barcelona, Spain 🇪🇸.
 
 <a href="https://wakatime.com/@018d3241-0f81-4d3f-b74f-e65b6da873ea">
   <img align="right" src="https://wakatime.com/badge/user/018d3241-0f81-4d3f-b74f-e65b6da873ea.svg?style=flat-square" alt="wakatime badge" />
@@ -13,7 +13,7 @@
 > 
 > 🖥️ See my personal page at [carloscapo.com](https://carloscapo.com)
 > 
-> 🧠 I'm interessed with JavaScript, Astro and CSS.
+> 🧠 I'm interessed with JavaScript, TypeScript, React, Node, Astro and CSS.
 
 ## Skills & Technologies
 
