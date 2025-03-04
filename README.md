@@ -1,10 +1,12 @@
-![github header banner](https://github.com/picuu/Picuu/assets/93738423/bf59a76e-af69-49e4-acfa-b5f4c373a42f)
+![github-header](https://github.com/user-attachments/assets/e05a1170-a29a-4bea-8acc-b67ac07f2a8e)
 
 # 👋🏼 Hi, I'm Carlos
 
 <img align="right" src="https://komarev.com/ghpvc/?username=picuu&style=flat-square&color=blue" alt="Visitors badge" />
 
 19-year-old web development student. Currently staying in Barcelona, Spain 🇪🇸.
+
+Hired as a Software Developer Intern at Travelport.
 
 <a href="https://wakatime.com/@018d3241-0f81-4d3f-b74f-e65b6da873ea">
   <img align="right" src="https://wakatime.com/badge/user/018d3241-0f81-4d3f-b74f-e65b6da873ea.svg?style=flat-square" alt="wakatime badge" />
@@ -15,7 +17,7 @@
 > 
 > 🧠 I'm interessed with JavaScript, TypeScript, React, Node, Astro and CSS.
 
-## Skills & Technologies
+## ⚙️ Skills & Technologies
 
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,7 +25,11 @@
 ![Astro Badge](https://img.shields.io/badge/Astro-000?logo=astro&logoColor=fff&style=for-the-badge)
 ![TailwindCSS Badge](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![NodeJS Badge](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -36,7 +42,7 @@
 
 ## 📧 Connect with me
 
-Feel free to contact me via:
+Feel free to reach me via:
 
 - 📫 Discord: [piicuu](https://carloscapo.com/discord)
 - ✉ Email: [contact@carloscapo.com](mailto:contact@carloscapo.com)
